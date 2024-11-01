@@ -1,0 +1,7 @@
+.wplazyspotify{
+    display:block;
+    width:300px;
+    min-height:80px;
+    background:url(spotify-placeholder.png) no-repeat;
+    margin-bottom:10px;
+}
